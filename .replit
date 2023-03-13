@@ -1,4 +1,4 @@
-compile = "swiftc -o main Arrays/NonConstructibleChange.swift"
+compile = "swiftc -o main BinarySearch/BinarySearch.swift"
 run = "./main"
 entrypoint = "main.swift"
 
