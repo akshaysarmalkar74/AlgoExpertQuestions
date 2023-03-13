@@ -1,4 +1,4 @@
-compile = "swiftc -o main BinarySearch/BinarySearch.swift"
+compile = "swiftc -o main BinarySearch/IndexEqualValue.swift"
 run = "./main"
 entrypoint = "main.swift"
 

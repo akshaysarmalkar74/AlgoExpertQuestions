@@ -1,3 +1,4 @@
+// O(nLogN) Time / O(1) Space
 func binarySearch(_ arr: [Int], _ target: Int) -> Int {
   var left = 0
   var right = arr.count - 1
