@@ -1,4 +1,4 @@
-compile = "swiftc -o main BinarySearch/SearchForRange.swift"
+compile = "swiftc -o main Arrays/SearchInSortedMatrix.swift"
 run = "./main"
 entrypoint = "main.swift"
 
