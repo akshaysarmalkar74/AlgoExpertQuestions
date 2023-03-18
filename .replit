@@ -1,4 +1,4 @@
-compile = "swiftc -o main Arrays/SearchInSortedMatrix.swift"
+compile = "swiftc -o main Arrays/ThreeLargestNumbers.swift"
 run = "./main"
 entrypoint = "main.swift"
 
