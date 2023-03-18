@@ -1,4 +1,4 @@
-compile = "swiftc -o main Arrays/ThreeLargestNumbers.swift"
+compile = "swiftc -o main Arrays/TwoNumberSum.swift"
 run = "./main"
 entrypoint = "main.swift"
 
